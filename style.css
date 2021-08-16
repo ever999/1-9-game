@@ -2,9 +2,10 @@ body {
     font-family: Arial;
     display: flex;
     margin: 0;
-    height: 100vh;
+    height: 90vh;
     justify-content: center;
     align-items: center;
+    background-color: silver;
   }
   .grid {
     width: 100%;
@@ -16,15 +17,15 @@ body {
     align-items: center;
   }
   .grid-elem {
-    margin: 7px;
-    width: 24%;
-    height: 24%;
+    margin: 3px 3px;
+    width: 25%;
+    height: 25%;
     background-color: #06568d;
     display: flex;
     justify-content: center;
     align-items: center;
     color: white;
-    font-size: 1.2em;
+    font-size: 2rem;
   }
   .grid-elem:hover {
     cursor: pointer;
