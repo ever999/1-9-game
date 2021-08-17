@@ -30,4 +30,5 @@ body {
 }
 .grid-elem:hover {
   cursor: pointer;
+  transition: background 200ms ease;
 }
