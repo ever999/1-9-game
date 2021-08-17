@@ -8,7 +8,7 @@ for(i=0;i<9;i++){
   arr.push(b);
   arr2.push(i+1).toString();
 }
-arr.sort( () => 0.9 - Math.random() );
+arr.sort( () => 0.5 - Math.random() );
 
 for(ii=0;ii<9;ii++){
 
