@@ -25,7 +25,7 @@ body {
     justify-content: center;
     align-items: center;
     color: white;
-    font-size: 2rem;
+    font-size: 6rem;
   }
   .grid-elem:hover {
     cursor: pointer;
