@@ -28,7 +28,6 @@ for(ii=0;ii<9;ii++){
       window.location.reload(false)
     }
     count++;
-    console.log(vin)
   });
   
 }
